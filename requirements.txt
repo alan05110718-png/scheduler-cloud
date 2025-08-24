@@ -5,5 +5,7 @@ setuptools>=68
 numpy<2
 pandas==2.2.2
 streamlit==1.37.1
+matplotlib==3.9.0
+
 
 
